@@ -1,0 +1,17 @@
+{
+    "name": "dakota/multibyte-keyword-generator",
+    "description": "Composer installable fork of peterkahl's multibyte keyword generator",
+    "license": "GNU Version 3",
+    "authors": [
+        {
+            "name": "Walther Lalk",
+            "email": "emailme@waltherlalk.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+       "classmap": [
+          "class.colossal-mind-mb-keyword-generator.php"
+       ]
+    }
+}
